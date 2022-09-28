@@ -1,4 +1,4 @@
-# DH110-HelenQuach Fall 2022
+# DH110-HelenQuach
 
 ## Sustainable cities and communities project
 ### Helen Quach | DH 110 Fall 2022
