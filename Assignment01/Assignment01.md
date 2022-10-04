@@ -58,7 +58,7 @@ _Overall Evaluation_: The website is relatively simple to navigate, although som
 
 ## Website 2: [The World Bank](https://www.worldbank.org/en/topic/urbandevelopment)
 
-![screenshot of world bank](globalgoals-1.png)
+![screenshot of world bank](worldbank-1.png)
 
 ### Background Information
 
