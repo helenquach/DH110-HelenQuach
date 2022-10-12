@@ -12,7 +12,7 @@ In Task 1, the user is asked to find a news article on the Global Goals website.
 Here is the [link to the survey.](https://forms.gle/PJA7KYHZ6QmWn48u9)
 
 ## Link to pilot UT video
-Here is the [link to the pilot UT video.]
+Here is the [link to the pilot UT video.](https://drive.google.com/file/d/15e7kQ5PlX74z86wKVT0W4dHxzhvrBIOp/view?usp=sharing)
 
 ## Reflection
 
