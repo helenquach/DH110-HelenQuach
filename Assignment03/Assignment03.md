@@ -4,7 +4,7 @@ Helen Quach | DH 110 | Fall 2022
 ## Project Description
 
 ### Design challenge
-
+How might we improve the lives of those who want to help make their community sustainable?
 
 ### Target users
 
