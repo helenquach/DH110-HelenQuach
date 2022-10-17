@@ -15,6 +15,7 @@ How might we improve the lives of those who want to help make their community su
 ### Guide
 
 ### Recording
+Here is the [audio recording.](https://drive.google.com/file/d/1xvVKk8iDitqFdmygMiRDXREGkXvzxTc3/view?usp=sharing)
 
 ### Transcript
 
