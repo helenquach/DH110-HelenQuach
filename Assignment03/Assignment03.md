@@ -13,6 +13,7 @@ How might we improve the lives of those who want to help make their community su
 ## Interview
 
 ### Guide
+Here is the [guide for the interview.](https://docs.google.com/document/d/1AKnr2Gv-hZsZJX6SmTiYaiUJ-ilTxsogoW4t8e8-zAU/edit?usp=sharing)
 
 ### Recording
 Here is the [audio recording of the interview.](https://drive.google.com/file/d/1xvVKk8iDitqFdmygMiRDXREGkXvzxTc3/view?usp=sharing)
