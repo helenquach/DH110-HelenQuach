@@ -4,9 +4,15 @@ Helen Quach | DH 110 | Fall 2022
 ## Project Description
 
 ### Design Challenge
-How might we improve the lives of those who want to help make their community sustainable? What tools or resources might we provide that would serve as an aid in sustainable living?
+#### What is the main activity your project would support for the users?
+#### What is the basic need/goal involved for that activity?
+#### What is(are) the traditional/current solution(s) to satisfy the needs?
+#### What is(are) the limitation(s) that possibly would be improved?
 
 ### Target Users
+#### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
+#### In which context (where, why, under which conditions) would the users do that activity? 
+#### What would the users usually do in order to complete that activity? 
 
 ### Research Methods
 
