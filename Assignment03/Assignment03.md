@@ -40,8 +40,13 @@ Helen Quach | DH 110 | Fall 2022
 
 
 ### Research Methods
-Contextual inquiry! 
+The research method I chose was participatory interaction. I interviewed a participant and asked the participant to complete some tasks while I observed their actions. Then I asked the participant relevant questions and recorded their answers.
 
+The activities the participant completed were: 
+* Task 1: Looking for a local business they would be interested in supporting.
+  * I wanted to know what an experienced user would look for in a local business. I also wanted to know what kinds of features a user would use when doing research.
+* Task 2: Selecting an interesting news article, reading it, and sharing their thoughts.
+  * I wanted to know what kinds of topics would draw an experienced user's attention. I also wanted to see if experienced users would be interested in reading relevant news articles.
 
 ## Interview
 
@@ -55,17 +60,20 @@ Here is the [audio recording of the interview.](https://drive.google.com/file/d/
 Here is the [transcript of the interview.](https://docs.google.com/document/d/1i8AvR-cPNbV3KCKdb9p9-M1yvgfjV4y4UOaJ6_WthbI/edit?usp=sharing)
 
 ### ⭐️ Insights from the interview
-This is an insight
-> hi
+1️⃣ The user wants to feel reassured by others doing the same activities 
+> "Sometimes it does feel that just me doing the sustainable activities that I’m doing myself, it doesn’t really feel like it makes a difference, because nobody else is doing it. But when I get my roommates or friends that I know to join me, it makes me feel like there’s a difference."
 
-This is an insight
-> hi
+2️⃣ The user wants to be part of a community with like-minded people
+> "Social media is a great thing for connecting with people and friends, but I would love to have a social media platform that’s geared towards sustainability and connecting with people that are sustainability-minded."
 
-This is an insight
-> hi
+3️⃣ The user is interested in supporting local businesses who share their values
+> "I do think I need to do a little more research on particular thrift stores, because I know someone mentioned to me the other day \[...\] that Salvation Army is very much anti-LGBTQ+, or at least when I last researched them, anti-LGBTQ+ was in their values. So that would be a company that I wouldn’t want to support."
 
-This is an insight
-> hi
+4️⃣ The user would prefer a curated feed of news that's relevant to them
+> "I feel like a lot of the time, the idea of having to go on, like, Google, for example, and search through a bunch of articles just to find one that’s related to business and the energy transition, it’s something that doesn’t seem very viable to me to do all the time when I have other things I need to be doing."
+
+5️⃣ The user is constantly looking for new methods to live a sustainable lifestyle
+> "There’s always more things I could be doing, but I just have to research it and look what sustainable swaps I could be doing better that are achievable and tangible for me personally in the way I live my life."
 
 ## Reflection
 
