@@ -69,11 +69,12 @@ Here is the [transcript of the interview.](https://docs.google.com/document/d/1i
 3️⃣ The user is interested in supporting local businesses who share their values
 > "I do think I need to do a little more research on particular thrift stores, because I know someone mentioned to me the other day \[...\] that Salvation Army is very much anti-LGBTQ+, or at least when I last researched them, anti-LGBTQ+ was in their values. So that would be a company that I wouldn’t want to support."
 
-4️⃣ The user would prefer a curated feed of news that's relevant to them
+4️⃣ The user wants relevant news articles to be easily accessible
 > "I feel like a lot of the time, the idea of having to go on, like, Google, for example, and search through a bunch of articles just to find one that’s related to business and the energy transition, it’s something that doesn’t seem very viable to me to do all the time when I have other things I need to be doing."
 
-5️⃣ The user is constantly looking for new methods to live a sustainable lifestyle
+5️⃣ The user is constantly looking for new ways to live a sustainable lifestyle
 > "There’s always more things I could be doing, but I just have to research it and look what sustainable swaps I could be doing better that are achievable and tangible for me personally in the way I live my life."
 
 ## Reflection
 
+The contextual inquiry process provided me with a lot of helpful insights about the target users and gave me a clearer direction to follow for my project. I struggled initially with developing the questions for the interview, but overall, I feel that the interview was very helpful. I found that the questions I asked the participant as follow-ups to their answers were more insightful than the questions I wrote initially. Listening to the participant and responding to the participant with the goal of learning about target users proved to be fruitful. I think that the activities I asked the users to complete were not detailed enough, because the user completed them very quickly. For the first task, I asked the user to do the task again with more guidance the second time, which was more informative than the first time the user completed the task. If I were to do something differently next time, I would begin the interview with a more specific goal and a better understanding of what I want to learn about the user. I want to appear more friendly and conversational rather than reading questions from a script.
