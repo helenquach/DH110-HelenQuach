@@ -4,6 +4,11 @@ Helen Quach | DH 110 | Fall 2022
 ## The Purpose of UX Storytelling
 The purpose of UX storytelling is to consider your product from a user's perspective and develop exactly what a user would need to achieve their goal. By creating personas and scenarios for those personas, the developer puts themselves in the position of the user and discovers new features and concerns that otherwise they might not have considered. It is important to develop a product that is accessible for users with a variety of experience levels, and UX storytelling can help a developer achieve that.
 
+## Tasks
+The following tasks are tasks I want to include in my design:
+1. The ability to read relevant news articles in a curated feed and share them on social media
+2. The ability to read/write posts in a community forum about sustainable living where you can recommend products and write reviews on local businesses
+
 ## Personas and Empathy Maps
 
 ### Persona 1: Madison Howard
