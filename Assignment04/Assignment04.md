@@ -7,13 +7,13 @@ The purpose of UX storytelling is to consider your product from a user's perspec
 ## Personas and Empathy Maps
 
 ### Persona 1: Madison Howard
-![Persona of Madison Howard](1-persona.png)
+![Persona of Madison Howard](1-persona-v2.png)
 
 ### Madison's Empathy Map
 ![Empathy Map of Madison Howard](1-empathy-map.png)
 
 ### Persona 2: Ethan Mendoza
-![Persona of Ethan Mendoza](2-persona.png)
+![Persona of Ethan Mendoza](2-persona-v2.png)
 
 ### Ethan's Empathy Map
 ![Empathy Map of Ethan Mendoza](2-empathy-map.png)
