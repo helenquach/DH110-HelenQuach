@@ -3,11 +3,14 @@ Helen Quach | DH 110 | Fall 2022
 
 ## Project Description
 
+
 #### User Research
 
 #### Personas + Usage Scenarios
+Here is more information
 
 #### Purpose of Low-Fidelity Prototype
+The purpose of low-fidelity prototyping is to test the functionality and flow of the design before investing in a fully developed product. 
 
 ## Tasks
 The low-fidelity prototype supports the following tasks: 
