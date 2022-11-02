@@ -17,9 +17,11 @@ The low-fidelity prototype supports the following tasks:
 1. The ability to read relevant news articles in a curated feed and share them on social media
 2. The ability to read/write posts in a community forum about sustainable living where you can recommend products and write reviews on local businesses
 
-## Wireframes
+## Wireframes and Wireflow
 
-## Wireflow
+![Wireflow 1](wireflow-1.JPG)
+![Wireflow 2](wireflow-2.JPG)
+![Wireflow 3](wireflow-3.JPG)
 
 ## Prototype Testing
 
