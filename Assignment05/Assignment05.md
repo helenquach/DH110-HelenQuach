@@ -17,7 +17,7 @@ I created two personas for two different usage scenarios:
 Here is [more information on personas and usage scenarios for this project.](https://github.com/helenquach/DH110-HelenQuach/blob/main/Assignment04/Assignment04.md)
 
 #### Purpose of Low-Fidelity Prototype
-The purpose of low-fidelity prototyping is to test the functionality and flow of the design before investing in a fully developed product. 
+The purpose of low-fidelity prototyping is to test the functionality and flow of the design before investing in a fully developed product. I want to see if users are able to intuitively learn how to complete the tasks at first glance of the design. I also want to identify obvious problems in the design that I can potentially fix before developing a more high-fidelity prototype. 
 
 ## Tasks
 The low-fidelity prototype supports the following tasks: 
@@ -35,5 +35,7 @@ The low-fidelity prototype supports the following tasks:
 ![Wireflow Test 1](wireflow-test-1.JPG)
 ![Wireflow Test 2](wireflow-test-2.JPG)
 ![Wireflow Test 3](wireflow-test-3.JPG)
+
+Notes on Prototype Testing: The user was able to successfully complete both tasks. The user was initially confused during Task 1, reading a news article and sharing it to social media, and could not locate the pull-up menu for the social media links. However, the user realized their mistake and eventually completed Task 1. The user completed Task 2, creating a post and publishing it to the community forum, with no problems. When completing Task 2, the user added a photo to their post first and then tagged their post before publishing it.
 
 ## Reflection
