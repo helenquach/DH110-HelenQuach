@@ -25,4 +25,8 @@ The low-fidelity prototype supports the following tasks:
 
 ## Prototype Testing
 
+![Wireflow Test 1](wireflow-test-1.JPG)
+![Wireflow Test 2](wireflow-test-2.JPG)
+![Wireflow Test 3](wireflow-test-3.JPG)
+
 ## Reflection
