@@ -32,10 +32,13 @@ The low-fidelity prototype supports the following tasks:
 
 ## Prototype Testing
 
-![Wireflow Test 1](wireflow-test-1.JPG)
+![Wireflow Test 1](wireflow-test-3.JPG)
 ![Wireflow Test 2](wireflow-test-2.JPG)
-![Wireflow Test 3](wireflow-test-3.JPG)
+![Wireflow Test 3](wireflow-test-1.JPG)
 
-Notes on Prototype Testing: The user was able to successfully complete both tasks. The user was initially confused during Task 1, reading a news article and sharing it to social media, and could not locate the pull-up menu for the social media links. However, the user realized their mistake and eventually completed Task 1. The user completed Task 2, creating a post and publishing it to the community forum, with no problems. When completing Task 2, the user added a photo to their post first and then tagged their post before publishing it.
+Notes on Prototype Testing: The user was able to successfully complete both tasks.
 
 ## Reflection
+During prototype testing, the user was initially confused during Task 1, reading a news article and sharing it to social media, and could not locate the pull-up menu for the social media links. However, the user realized their mistake and eventually completed Task 1. Interestingly, the user highlighted all of the news articles and all of the social media links when progressing to the next step of the task. I think this is due to the format of the wireflow, because I boxed all of the elements together instead of boxing each element individually. At this point, I am not sure that it is a flaw with the design. The user completed Task 2, creating a post and publishing it to the community forum, with no problems. When completing Task 2, the user added a photo to their post first and then tagged their post before publishing it. I was glad that the user easily identified the "New Post" button at the top of the community forum page because I worried that the page was too busy or complex for new users. The user had some troubles interpreting the wireflow and what each of the arrows did, but seeing as the user eventually was able to complete both of the tasks successfullly, I do not think this is a problem.
+
+In terms of improvement, I think that I can make the social media links on the news page more obvious. Rather than hiding them on a pull-up menu at the bottom of the screen, I could put all of them in a single container on the right side so that they are always visible. This may be simpler than the pull-up menu and it will still be out of the way of the news articles. On the community page, I could not identify any issues during the initial prototype testing. However, I think that I will add a Search Bar on both of the pages so that it is easier for users to find news articles and posts about topics they want to research. 
