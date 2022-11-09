@@ -54,6 +54,12 @@ Here is the [link to the prototype](https://www.figma.com/proto/7bqPEgQ3nS4W1Bl9
 
 # Impression Test
 
+## Audio recording
+Here is the [audio recording of the impression test.](https://drive.google.com/file/d/1C0qJg82TzCWPy53P63ZdqNgC-h0an03H/view?usp=sharing)
+
+## Transcript
+Here is the [transcript of the impression test.](https://docs.google.com/document/d/1yTgQgTlz9ikaSWJ9oqvASm2xmSKX6lkv8ZmoXhUi4uQ/edit?usp=sharing)
+
 # Accessibility Check
 ## Light mode
 ![color-1](color-1.png)
