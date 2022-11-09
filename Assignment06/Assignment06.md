@@ -12,6 +12,7 @@ I used Figma to digitize my low-fidelity prototype. I used the Macbook Pro 14" s
 
 ### Example wireframe
 Below is the example wireframe that I digitized as part of my interface design.
+
 ![example-wireframe](../Assignment05/wireflow-1.JPG)
 
 From the initial wireflow testing, I discovered that the pull-up social media menu was not intuitive and decided to implement instead a social media bar on the side of the page that will stay in place as the user scrolls through news articles.
