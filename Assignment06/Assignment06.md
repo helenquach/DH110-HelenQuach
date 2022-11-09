@@ -98,9 +98,23 @@ Here is the [audio recording of the impression test.](https://drive.google.com/f
 Here is the [transcript of the impression test.](https://docs.google.com/document/d/1yTgQgTlz9ikaSWJ9oqvASm2xmSKX6lkv8ZmoXhUi4uQ/edit?usp=sharing)
 
 ### Findings
+From the 5-second test:
+* Website appears to be about nature
+* Overwhelmingly forest green colors
+* Social media side bar was very prominent
+* Everything was grouped together and organized well
+* Three columns, easy to read
 
+Other findings:
+* Having elements change color on hover is a useful visual feature
+* Should add some kind of interactive element to page numbers at bottom of news articles
+* Should make the search icon bigger
+* Good contrast between typography choices for headline and body text
 
 ## Accessibility Check
+
+I performed color contrast checks for the light mode and dark mode versions of my design. All color combinations of text and background color passed the 4.5:1 ratio test, as shown below.
+
 ### Light mode
 ![color-1](color-1.png)
 <img src="color-contrast-check-1.png" width="500">
