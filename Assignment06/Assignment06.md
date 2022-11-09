@@ -14,6 +14,8 @@ I used Figma to digitize my low-fidelity prototype. I used the Macbook Pro 14" s
 Below is the example wireframe that I digitized as part of my interface design.
 ![example-wireframe](../Assignment05/wireflow-1.JPG)
 
+From the initial wireflow testing, I discovered that the pull-up social media menu was not intuitive and decided to implement instead a social media bar on the side of the page that will stay in place as the user scrolls through news articles.
+
 ### Link to prototype
 Here is the [link to the Figma file.](https://www.figma.com/file/7bqPEgQ3nS4W1Bl99qofRQ/DH-110-Interface-Design-System?node-id=0%3A1)
 
@@ -23,7 +25,7 @@ Here is the [link to the prototype.](https://www.figma.com/proto/7bqPEgQ3nS4W1Bl
 
 ### Typography variations
 
-I tried a variety of typography options, including sans serif and serif fonts for the headline and body text. The options explored can be seen below.
+I tried a variety of typography options, including sans serif and serif fonts for the headline and body text. The options explored can be seen below. 
 
 #### Variation 1: Urbanist
 ![typography-1](typography-1.png)
@@ -37,21 +39,7 @@ I tried a variety of typography options, including sans serif and serif fonts fo
 #### Variation 4: Fraunces, Work Sans
 ![typography-4](typography-4.png)
 
-In the end, I settled on using the fonts Fraunces for headline text and Work Sans for body text. I used [Material Design](https://m2.material.io/design/typography/the-type-system.html#type-scale) to help generate a type scale for these fonts and adjusted the weights for legibility, as shown below:
-
-|   | Font | Weight | Size | Letter spacing |
-| --- | --- | --- | --- | --- |
-| Headline 1 | Fraunces | Bold | 108px | -1.5px |
-| Headline 2 | Fraunces | Bold | 68px | -0.5px |
-| Headline 3 | Fraunces | Bold | 54px | 0px |
-| Headline 4 | Fraunces | Bold | 38px | 0px |
-| Headline 5 | Fraunces | Bold | 27px | 0px |
-| Headline 6 | Fraunces | Bold | 23px | 0px |
-| Subtitle 1 | Fraunces | SemiBold | 18px | 0px |
-| Body 1 | Work Sans | Regular | 17px | 0.5px |
-| Body 2 | Work Sans | Regular | 15px | 0.25px |
-
-For the body text, I used 150% line height.
+In the end, I settled on using the fonts Fraunces for headline text and Work Sans for body text. 
 
 ### Shape variations
 
@@ -111,6 +99,8 @@ Other findings:
 * Should make the search icon bigger
 * Good contrast between typography choices for headline and body text
 
+After the impression test, I made the search icon bigger and plan to implement more interactive elements throughout the website. I also decided to make the wordmark of my logo one color instead of two so that it is easier to read.
+
 ## Accessibility Check
 
 I performed color contrast checks for the light mode and dark mode versions of my design. All color combinations of text and background color passed the 4.5:1 ratio test, as shown below.
@@ -130,3 +120,43 @@ I performed color contrast checks for the light mode and dark mode versions of m
 ![final-prototype](final-prototype.png)
 ### Layout test
 ![layout-test-2](layout-test-2.png)
+
+### Typography
+|   | Font | Weight | Size | Letter spacing |
+| --- | --- | --- | --- | --- |
+| Headline 1 | Fraunces | Bold | 108px | -1.5px |
+| Headline 2 | Fraunces | Bold | 68px | -0.5px |
+| Headline 3 | Fraunces | Bold | 54px | 0px |
+| Headline 4 | Fraunces | Bold | 38px | 0px |
+| Headline 5 | Fraunces | Bold | 27px | 0px |
+| Headline 6 | Fraunces | Bold | 23px | 0px |
+| Subtitle 1 | Fraunces | SemiBold | 18px | 0px |
+| Body 1 | Work Sans | Regular | 17px | 0.5px |
+| Body 2 | Work Sans | Regular | 15px | 0.25px |
+
+Note: For body text, use 150% for line height.
+
+> I chose to use the font Fraunces, a serif font, rather than other sans serif fonts, for the headline text because it looks more trustworthy for a source of news. Newspapers are printed in serif fonts, so I chose to use a serif font to emulate that. However, this font is not easy to read when it is small, so I chose Work Sans, a cleaner sans serif font to use for the body text. The combination of a serif and sans serif font provides a nice contrast and creates a modern look. This is important, because the target users of my website are young adults. I want to be able to appeal to my target users by appearing modern and up-to-date, but still trustworthy as a news source.
+
+### Color scheme
+#### Light mode
+* Background color, text: FCFDFC
+* Lines: DDDDDD
+* Secondary background color: EFF5F3
+* News card, text: 355A4B
+* Social media bar, footer: 11422D
+* News card, social media links on hover: 99D16D
+
+#### Dark mode
+* Background color, text: 09100D
+* Lines: 264036
+* News card, secondary background color: 1C3028
+* Social media bar, footer, text: 4CA464
+
+> I wanted to use a mainly green color scheme to emphasize the "go green" mentality of sustainable living as well as the namesake of the website, Greenforum. Green also represents nature and is generally a calming color. I want people who enter the website to feel calm, relaxed, and safe. Therefore, I chose to use a green color scheme for the website. The specific shades of green were chosen from the original logo that I designed for the website. 
+
+### Layout grid and spacing
+* 7 columns, 32px margin, 48px gutter
+* 10 rows, 0px margin, 24px gutter
+
+> I chose this layout grid and spacing based on the wireframes that I designed during my low-fidelity prototype development. I chose numbers that were multiples of 8 or 16 so that they would work well with the size of the body text.
