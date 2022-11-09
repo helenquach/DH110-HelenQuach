@@ -55,6 +55,15 @@ Here is the [link to the prototype](https://www.figma.com/proto/7bqPEgQ3nS4W1Bl9
 # Impression Test
 
 # Accessibility Check
+## Light mode
+![color-1](color-1.png)
+<img src="color-contrast-check-1.png" width="500">
+<img src="color-contrast-check-2.png" width="500">
+
+## Dark mode
+![color-1-dark-mode](color-1-dark-mode.png)
+<img src="color-contrast-check-3.png" width="500">
+<img src="color-contrast-check-4.png" width="500">
 
 # Design System
 ### Final prototype
