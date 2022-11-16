@@ -26,5 +26,8 @@ Here is a [link to the prototype.](https://www.figma.com/proto/RqIQmTZjp8CDBBa9x
 ![task-2](wireflow-task-2.png)
 
 ## Cognitive Walkthrough
+Here is the link to the [screen recording.](https://drive.google.com/file/d/1hXSS8JKRV9cBQgE-qcOdO-vAZCg84t3I/view?usp=sharing)
+
+Here is the link to the [transcript.](https://docs.google.com/document/d/17RjgHGkcVaiiWQj12Cl1owuyfObbXb3R2pgJhNe0mQM/edit?usp=sharing)
 
 ### Summary of findings
