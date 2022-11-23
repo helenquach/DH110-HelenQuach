@@ -34,6 +34,15 @@ Here is a [link to the prototype.](https://www.figma.com/proto/RqIQmTZjp8CDBBa9x
 ![task-2](wireflow-task-2.png)
 
 ## Cognitive Walkthrough
+I conducted a survey about the design of the prototype and received two responses.
+
+### Summary of findings
+* Adding a "Post successful" confirmation message after making a social media post would be helpful.
+* Adding a filter for the news articles by topic or date would be useful.
+* Adding social media icons to the footer will make the links more clear to the user.
+
+I also asked a participant to complete both of the tasks implemented in the prototype.
+
 Here is the link to the [screen recording.](https://drive.google.com/file/d/1hXSS8JKRV9cBQgE-qcOdO-vAZCg84t3I/view?usp=sharing)
 
 Here is the link to the [transcript.](https://docs.google.com/document/d/17RjgHGkcVaiiWQj12Cl1owuyfObbXb3R2pgJhNe0mQM/edit?usp=sharing)
@@ -44,4 +53,4 @@ Here is the link to the [transcript.](https://docs.google.com/document/d/17RjgHG
 * The participant said that the tasks were "pretty straightforward" and the website was "well-organized."
 * The participant appreciated how explicit the label "Share this page on social media" was.
 
-Overall, I think that the cognitive walkthrough went well. The user completed both of the tasks relatively quickly, faster than I expected. I do not think there was anything that was not obvious or not intuitive. The one part where the participant struggled was during the "Upload a photo" part of Task 2. I think that this was because the photo was already present in the high-fidelity prototype, so the user was confused on how to proceed. If I could make an adjustment to the prototype, I would add more screens without the photo and make it so that the photo would appear only after the user "uploads" the photo. However, I do not think this is a flaw with the design of the website itself, only the prototype. I conclude that the high-fidelity prototype is relatively intuitive for new users.
+Overall, I think that the cognitive walkthrough went well. The user completed both of the tasks relatively quickly, faster than I expected. I do not think there was anything that was not obvious or not intuitive. The one part where the participant struggled was during the "Upload a photo" part of Task 2. I think that this was because the photo was already present in the high-fidelity prototype, so the user was confused on how to proceed. If I could make an adjustment to the prototype, I would add more screens without the photo and make it so that the photo would appear only after the user "uploads" the photo. However, I do not think this is a flaw with the design of the website itself, only the prototype. During the survey, some areas in the prototype that could be improved were revealed. I received suggestions to add a confirmation after making a social media post and to add a filter for the news articles, which I think could be useful. In the future, I will make these changes.
