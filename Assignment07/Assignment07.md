@@ -41,6 +41,7 @@ I conducted a survey about the design of the prototype and received two response
 * Adding a filter for the news articles by topic or date would be useful.
 * Adding social media icons to the footer will make the links more clear to the user.
 
+## Usability Testing
 I also asked a participant to complete both of the tasks implemented in the prototype.
 
 Here is the link to the [screen recording.](https://drive.google.com/file/d/1hXSS8JKRV9cBQgE-qcOdO-vAZCg84t3I/view?usp=sharing)
